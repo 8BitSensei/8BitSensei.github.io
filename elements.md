@@ -14,14 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend vulputat
 
 Here are a few projects I've worked on:
 
-- [bitpodcast.com](https://bitpodcast.com/)
-- [joelcagedesign.com](https://joelcagedesign.com/)
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](http://case2111.github.io/)
-- [www.10people.co.uk](http://www.10people.co.uk/)
-- [hrkeni.me](http://hrkeni.me/)
-- [ccs17.bsc.es](https://ccs17.bsc.es/)
-- [karateca.org](http://www.karateca.org/)
+- [Swiftaid](https://swiftaid.co.uk/)
 
 
 ## 🐙 GitHub
