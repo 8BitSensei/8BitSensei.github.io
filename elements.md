@@ -16,16 +16,7 @@ Here are a few projects I've worked on:
 
 - [Swiftaid](https://swiftaid.co.uk/)
 
-
-## 🐙 GitHub
-
-{% include github.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
-
 &nbsp;
 ## 📢 Twitter
 
 {% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
-
-## 💌 Contact me
-
-{% include site-form.html %}
