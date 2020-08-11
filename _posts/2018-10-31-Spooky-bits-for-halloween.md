@@ -4,7 +4,7 @@ categories: Medieval Horror Literature Myth
 
 **Reicne Fothaid Canainne \(trans. Kuno Meyers\) Verses 41 - 49 \(**[**Source**](https://celt.ucc.ie//published/T303016/index.html)**\)**
 
-Here is a text relating how a fiana leader of Connacht, Fothaid Canainne got in a bit of a scuffle with a fiana leader from Munster, Ailill Flann Bec, over a mutual interest in Ailill's wife. Fothaid and his men are slaughtered in the battle and his lover \(Ailill's wife\) brings his severed head back to his body, where her relates the events of the battle and mourns his comrades; it ends with the following verses, making one of the earliest references to the Mórrígan.
+Here is a text relating how a fiana leader of Connacht, Fothaid Canainne got in a bit of a scuffle with a fiana leader from Munster, Ailill Flann Bec, over a mutual interest in Ailill's wife. Fothaid and his men are slaughtered in the battle and his lover \(Ailill's wife\) brings his severed head back to his body, where he relates the events of the battle and mourns his comrades; it ends with the following verses, making one of the earliest references to the Mórrígan.
 
 > There are around us here and there   
 > many spoils whose luck is famous;   

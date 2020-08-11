@@ -79,10 +79,9 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Charlie Tizzard Ó Kevlahan" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo-medium.svg" # Site logo, also used in jekyll-seo-tag
-description: "One year fresh CS graduate working as a backend Engineer in C# and .NET on fintech. 
-My interests are in History, Medieval Literature, Cooking, and the Irish Language, I specialise in Late Iron Age
-to Early Medieval Britain and Ireland. Talk to me about Dependency Injection, Romano-Celtic temple sites, and Immacallam Choluim Cille ⁊ ind óclaig." # Site description and default description, also used in jekyll-seo-tag
-url: "https://charietizzard.co.uk" # Site url, also used in jekyll-seo-tag
+description: "Back-End engineer, working mostly with C#, .NET, Terraform, Azure, and AWS. I've worked on fintech technology in the past and now I'm helping to make the future of in-game spectator experiences. 
+My interests are in History, Medieval Lit, the occult, Cooking, and the Irish Language." # Site description and default description, also used in jekyll-seo-tag
+url: "https://8bitsensei.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/8BitSensei"
 email: ctizzard@outlook.com"
@@ -102,7 +101,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/CoffeeGenos
   LinkedIn: https://www.linkedin.com/in/charles-tizzard/
   GitHub: https://github.com/8BitSensei
-  link: https://charlietizzard.co.uk
+  link: https://8bitsensei.github.io/
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour

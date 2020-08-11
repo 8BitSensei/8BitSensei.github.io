@@ -1,4 +1,4 @@
-Consonants, Vowels, and IPA
+## Consonants, Vowels, and IPA
 
 **Phonetics vs Phonology,**
 

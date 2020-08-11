@@ -2,7 +2,7 @@
 categories: Programming VisualStudio Tutorial
 ---
 
-Where I work the bulk of my time is spent implementing Server processes, and API calls, you know, getters, setters, etc. But I've noticed that a large amount of time spent, especially when I was newer, was on writing out the exact same stuff, mainly setting up tests, which apart from a few function internals are largely the same.
+Where I work the bulk of my time is spent implementing Server processes and API calls, you know, getters, setters, etc. But I've noticed that a large amount of time spent, especially when I was newer, was on writing out the exact same stuff, mainly setting up tests, which apart from a few function internals are largely the same.
 
 So how could I fix this? Get faster at typing? Not likely, I've always been prone to stupid typos and to this day I still glance at my keyboard while typing instead of the screen \(probably why I make so many typos\). But, what we do have in Visual Studio is Item Templates, they're used all the time to put in the basics of a file rather than giving you a blank page when you ask for a new class. The standard way to use it is to hit **right click** on a project &gt; **Add** &gt; **New Item** &gt; and then select something, usually just **Class** or a **Azure Function**. Ok, so, why not just make one of these Item templates custom for what I'm doing? Take the core file structures that I keep repeating and wasting time on and automate it?
 
