@@ -16,4 +16,4 @@
   description: For around a year at Polystream I worked on pipelines using Azure DevOps and CodeFresh to instantiate and deploy cloud infrastructure using Terraform in between my other responsibilities.
 
 - skill: 🔧 Other Tools
-  description: Terraform, Helm, Python, JQuery, React, Rancher, JIRA, Kibana 
+  description: Terraform, Helm, Python, JQuery, React, Rancher, JIRA, Kibana, Istio 
