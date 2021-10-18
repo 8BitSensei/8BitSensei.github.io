@@ -1,0 +1,37 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Command Streaming - Polystream
+  role: Platform Engineer
+  duration: 2019 &mdash; Present
+  # url: "#"
+  description: At Polystream I've been lucky enough to see and work on the development of what we call 'Command Streaming', you can hear more about that and how it is a major improvement on regular streaming technologies and how we leverage cloud technologies <a href="https://www.youtube.com/watch?v=VuGIa0XvR6Y">here</a>. As a Platform Engineer I have been working on the global infrastructure that enables Command Streaming to be available to customers and developers, rather than the core technology.
+
+  # jazznotes.io
+- project: PPU - Polystream
+  role: Platform Engineer
+  duration: 2021
+  # url: "#"
+  description: While at Polystream one of the major challenges that faced us was how to easily get an Application such as Unity Editor or Alien Isolation from a developer to the Polystream platform so that it could be streamed globally. In 2021 I took the lead in developing a CLI tool called PPU (Polystream Packaging Utility) aimed at making the process of packaging and publishing an application to Polystream simple and recognisable for developers. You can read about some of the challenges I faced and the outcomes <a href="https://polystream.com/developing-in-house-tools-the-polystream-ppu/">here</a>.
+
+  # jazznotes.io
+- project: Virtual Museum - Polystream
+  role: Platform Engineer
+  duration: 2020
+  # url: "#"
+  description: At Polystream we held regular 'Fantom Jams', a hackathon type event where in small teams we were able to experiment with our streaming technologies to our heart's content over a 48hr period and attempt to 'do something amazing'. In Spring 2021 myself and a team of 3 other Polystreamers re-created a virtual museum space in the Unity Editor to show off some of Polystream's history and show that these virtual spaces aren't limited to traditional games experiences, but more social and even educational experiences too. We came first place! You can read more about it <a href="https://polystream.com/polystream-jam-spring-edition/">here</a>. 🥇
+
+  # jazznotes.io
+- project: Swiftaid - Streeva
+  role: Core Engineer
+  duration: 2018 &mdash; 2019
+  # url: "#"
+  description: At Streeva I helped develop the core API for the Swiftaid application. Swiftaid is an application which makes use of Open Banking to automate the Gift Aid process when ever you use a connected bank account. Check it out <a href="https://www.swiftaid.co.uk/">here</a>.
+
+  # jazznotes.io
+- project: Templum
+  role: Platform Engineer
+  duration: 2021 &mdash; Present
+  # url: "#"
+  description: Templum is a side-project of mine that I work on to improve some of my web skills while indulging my interests in History and Archaeology. Templum is a searchable catalogue of Temple sites from Britain and Ireland between 100 BCE and 600 CE. You can check it out a <a href="https://8bitsensei.github.io/Templum/">here</a>. 
