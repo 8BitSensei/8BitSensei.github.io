@@ -1,0 +1,32 @@
+# Jobs
+# VP of Global Communications
+- company: Polystream
+  position: Platform Engineer
+  duration: Jul 2019 &mdash; present
+  summary: At Polystream I've not only had the chance to be a part of an amazing and tight-knit group of skilled Platform Engineers, but I've also had the chance to work on some of the most interesting, cutting-edge technology in the world of streaming. I've been building .NET based services in C# and deploying them to GCP to provide the backbone which allows us to deploy and run hundreds of our servers across the globe to provide people with an optimal streaming experience. I've also helped build, define, and manage the systems and tools which allow us to deploy servers globally, but also the core tools aimed at allowing developers to package and publish their applications to the cloud for streaming. Some of my responsibilities include <ul class="resume-item-list"><li>Development of core platform services</li><li>Infrastructure deployment and maintenance</li><li>Lead on the development of internal tools used to package and publish applications to the Polystream platform</li></ul> 
+
+
+# Director of Digital Stratgy
+- company: Streeva
+  position: Core Engineer
+  duration:  Jun 2018 &mdash; Jun 2019
+  summary: One year as a Core Engineer at Streeva working on the Swiftaid application's core API services built on top of Microsoft Azure Functions.
+
+
+# Communications Coordinator
+- company: NoteMachine
+  position: Junior Systems Engineer
+  duration: May 2016 &mdash; Sep 2017
+  summary: One and a half years at NoteMachine as part of my BsC work experience. I led the testing and quality assurance of new ATM software and machinery before it was deployed to NoteMachine's full estate.
+
+
+- company: WDS, A Xerox Company
+  position: Technical Support Consultant
+  duration: May 2014 &mdash; Sep 2013
+  summary: Worked as a Technical Support Consultant at a WDS call centre for Tesco Mobile customers.
+
+
+- company: 3 Sided Cube
+  position: Trainee Android Developer (Volunteer)
+  duration: Aug 2012 &mdash; Feb 2013
+  summary: Volunteered at 3 Sided Cube for seven months to receive my introduction to development work in the mobile environment.
