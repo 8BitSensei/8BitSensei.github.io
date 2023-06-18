@@ -13,7 +13,7 @@
   role: Platform Engineer - Mythical UK
   duration: 2022 &mdash; Present
   # url: "#"
-  description: We recently completely overhauled the way we deliver the Polystream streaming experience to us a container based approach, not only did this mean re-working our Platform Services, it also meant re-designing how developers publish their applications onto our platform. Because we are going with a container based approach, we decided to uae OCI artifacts as application packages, and develop a tool, mythctl in Go, based on the Docker CLI that would use our OCI compliant asset-spec to build and push artifacts to compatible registiries for streaming.
+  description: We recently completely overhauled the way we deliver the Polystream streaming experience to use a container based approach, not only did this mean re-working our Platform Services, it also meant re-designing how developers publish their applications onto our platform. Because we are going with a container based approach, we decided to use OCI artefacts as application packages, and develop a tool, mythctl in Go, based on the Docker CLI that would use our OCI compliant asset-spec to build and push artefacts to compatible registries for streaming.
 
   # jazznotes.io
 - project: PPU
@@ -26,18 +26,18 @@
 - project: Templum - hobby project
   duration: 2021 &mdash; Present
   # url: "#"
-  description: Templum is a hobby-project of mine that I work on to improve some of my web skills while indulging my interests in History and Archaeology. Templum is a searchable catalogue of Temple sites from Britain and Ireland between 100 BCE and 600 CE. I'm currently overhauling it to use a .NET based backend that will <a href="https://github.com/8BitSensei/gitrows-dotnet">use Github as a no-SQL database</a> based on the <a href="https://gitrows.com/">Gitrows</a> project.  You can check it out a <a href="https://8bitsensei.github.io/Templum/">here</a>. 
+  description: Templum is a hobby-project of mine that I work on to improve some of my web skills while indulging my interests in History and Archaeology. Templum is a searchable catalogue of Temple sites from Britain and Ireland between 100 BCE and 600 CE. I'm currently overhauling it to use a .NET based backend that will <a href="https://github.com/8BitSensei/gitrows-dotnet">use Github as a no-SQL database</a> based on the <a href="https://gitrows.com/">Gitrows</a> project.  You can check it out <a href="https://8bitsensei.github.io/Templum/">here</a>. 
 
   # jazznotes.io
 - project: Virtual Museum
   role: Platform Engineer - Mythical UK
   duration: 2020
   # url: "#"
-  description: At Mythical UK we held regular 'Fantom Jams', a hackathon type event where in small teams we were able to experiment with our streaming technologies to our heart's content over a 48hr period and attempt to 'do something amazing'. In Spring 2021 myself and a team of 3 other Polystreamers re-created a virtual museum space in the Unity Editor to show off some of Polystream's history and show that these virtual spaces aren't limited to traditional games experiences, but more social and even educational experiences too. We came first place! You can read more about it <a href="https://polystream.com/polystream-jam-spring-edition/">here</a>. 🥇
+  description: At Mythical UK we held regular 'Fantom Jams', a hackathon type event where in small teams we were able to experiment with our streaming technologies to our heart's content over a 48 hour period and attempt to 'do something amazing'. In Spring 2021 myself and a team of 3 other Polystreamers re-created a virtual museum space in the Unity Editor to show off some of Polystream's history and show that these virtual spaces aren't limited to traditional games experiences, but more social and even educational experiences too. We came in first place! You can read more about it <a href="https://polystream.com/polystream-jam-spring-edition/">here</a>. 🥇
 
   # jazznotes.io
 - project: Swiftaid
   role: Core Engineer - Streeva
   duration: 2018 &mdash; 2019
   # url: "#"
-  description: At Streeva I helped develop the core API for the Swiftaid application. Swiftaid is an application which makes use of Open Banking to automate the Gift Aid process when ever you use a connected bank account. Check it out <a href="https://www.swiftaid.co.uk/">here</a>.
+  description: At Streeva I helped develop the core API for the Swiftaid application. Swiftaid is an application which makes use of Open Banking to automate the Gift Aid process whenever you use a connected bank account. Check it out <a href="https://www.swiftaid.co.uk/">here</a>.

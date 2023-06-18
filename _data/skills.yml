@@ -9,11 +9,11 @@
 
 - skill: 🐳 Docker and Kubernetes
   duration: 4 Years
-  description: At Mythical UK I use combination of Kubernetes and Docker to deploy and manage multiple Nodes of containerised Platform Services, and Lens for observation. Recently I have worked on a customised OCI compliant image-spec with the addition specifically for containerised Games, along with our own internal tool written in Go for managing application artifacts based on the Docker CLI.  
+  description: At Mythical UK I use a combination of Kubernetes and Docker to deploy and manage multiple Nodes of containerised Platform Services, and Lens for observation. Recently I have worked on a customised OCI compliant image-spec with the addition specifically for containerised Games, along with our own internal tool written in Go for managing application artefacts based on the Docker CLI.  
 
 - skill: ⚙️ DevOps
   duration: 4 Year
-  description: At Mythical UK I used and developed Azure DevOps pipelines for deployment of Paltform Services, we have since moved over to using CodeFresh.
+  description: At Mythical UK I used and developed Azure DevOps pipelines for deployment of Platform Services, we have since moved over to using CodeFresh.
 
 - skill: 🔧 Other Tools
   description: Lens, Helm, Powershell, Python, JQuery & React, Terraform, JIRA, Kibana, Istio 
