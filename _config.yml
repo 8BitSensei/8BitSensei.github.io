@@ -17,12 +17,12 @@ resume_contact_email:           "ctizzard@outlook.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+44 07966490093"
-resume_contact_address:         "UK, Surrey, Woking"
+resume_contact_address:         "UK, Kent, Maidstone"
 
-resume_header_contact_info:     "UK, Surrey, Woking • ctizzard@outlook.com"
+resume_header_contact_info:     "UK, Kent, Maidstone • ctizzard@outlook.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hi! I'm Charlie, a junior-ish platform engineer based in Woking (UK). I have experience working with C# and .NET to produce Cloud based services. I'm used to working with small agile teams where we all have to wear many hats, and I love it. I've had the opportunity to work on infrastructure that will be the backbone of virtual experiences in the future, and I look forward to doing even more of that going forward!</p>"
+resume_header_intro: "<p>Hi! I'm Charlie, a Platform Engineer based in Maidstone (UK). I have experience working with C# and .NET to develop and deploy Cloud based services. I'm used to working with small agile teams where we all have to wear many hats, and I love it. I've had the opportunity to work on infrastructure that will be the backbone of virtual experiences in the future, and I look forward to doing even more of that going forward!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
