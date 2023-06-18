@@ -1,5 +1,5 @@
 # Lines starting with '#' in yml files are commented and will not affect data
-- skill: 👨‍💻 C#, .Net Core 2.0 to 7, and Go
+- skill: 👨‍💻 C#, .NET Core, and Go
   duration: 5 Years
   description: I have been working with C# and .NET since I graduated from the University of Surrey and started working at Streeva in 2018, currently my day-to-day are primarily in .NET 6.0 and C# 10. All of the services I have worked on over the past 5 years have primarily been written using these tools and aim to achieve a Test-first programming approach using popular packages such as XUnit, FluentAssertions, and NSubstitute. Over the past year I have also been increasingly using Go in the workplace, re-working internal tooling from the ground up using Go 1.20.
 
